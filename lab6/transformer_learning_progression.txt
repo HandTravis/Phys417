@@ -1,0 +1,8 @@
+TA (Darin) recommended the following order to learn Transformers well
+
+RNN -> LSTM -> Seq2Seq -> Attention -> Transformer
+
+Understand each topic well before really diving into the next, and spend extra time on Transformer once there
+Very much 'black box' nature to it, especially surrounding KVQ and other components
+
+"Also very unlikely to use agentic AI in the real world, the kind of thing that gets finance bros and AI hype bros excited"
